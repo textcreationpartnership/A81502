@@ -1,0 +1,858 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Discipline of gathered churches, with the covenant taken by each member; and a confession of faith professed by the Church of Christ at Martins Vintry: together with spirituall hymnes by way of paraphrase upon the whole book of canticles by them sung at their breaking of bread. And an abreviate of their whole practise.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81502</idno>
+            <idno type="STC">Wing D1560</idno>
+            <idno type="STC">Thomason E1545_1</idno>
+            <idno type="STC">ESTC R209451</idno>
+            <idno type="EEBO-CITATION">99868334</idno>
+            <idno type="PROQUEST">99868334</idno>
+            <idno type="VID">170073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170073)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 196:E1545[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Discipline of gathered churches, with the covenant taken by each member; and a confession of faith professed by the Church of Christ at Martins Vintry: together with spirituall hymnes by way of paraphrase upon the whole book of canticles by them sung at their breaking of bread. And an abreviate of their whole practise.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Ibbitson in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654. [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A¹² .</note>
+                  <note>Annotation on Thomason copy: "Nou. 22 1653"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hymns, English --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170073:1" rendition="simple:additions"/>
+            <p>THE DISCIPLINE OF <hi>Gathered Churches,</hi> WITH The Covenant taken by each Member; And a Con<g ref="char:EOLhyphen"/>feſſion of Faith profeſſed by the Church of Chriſt at <hi>Martins Vintry:</hi>
+            </p>
+            <p>Together with Spirituall Hymnes by way of Pa<g ref="char:EOLhyphen"/>raphraſe upon the whole book of <hi>Canticles</hi> by them ſung at their breaking of Bread.</p>
+            <p>And an Abreviate of their whole Practiſe.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Ibbitſon</hi> in Smithfield, 1654. <add>Nou. 22 1653</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Song_of_Solomon_paraphrased">
+            <pb facs="tcp:170073:2"/>
+            <pb facs="tcp:170073:2"/>
+            <head>CANTICLES.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <l>
+                  <seg rend="decorInit">N</seg>Ow let us ſing a Song moſt choiſe.</l>
+               <l>To God; of Chriſt our peace:</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> Whoſe blood guſh'd out to heale our ſouls</l>
+               <l>His love doth never ceaſe.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> The ſavor of thy grace, O Chriſt,</l>
+               <l>Is ſweet from Heaven above</l>
+               <l>Thou doſt refreſh our thirſty ſoule,</l>
+               <l>And thee we dearly love.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> Draw us we will run after thee,</l>
+               <l>Thy fellowſhip to have:</l>
+               <l>We will be glad, and joy in thee,</l>
+               <l>Thy love therefore we crave.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> We are by nature black with ſin,</l>
+               <l>Dear friends and Chriſtians all;</l>
+               <l>The blood of Chriſt will make us clean</l>
+               <l>If we on him do call.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> Look nor on us, for our black ſins,</l>
+               <l>In which we guilty are,</l>
+               <pb facs="tcp:170073:3"/>
+               <l> Us to deſtroy, O Lord, but let</l>
+               <l>us in thee have a ſhare.</l>
+               <l>We mind the world too much; our ſouls</l>
+               <l>We do not keep with care,</l>
+               <l>But to refreſh our ſouls, ſweet Chriſt</l>
+               <l>Thy blood thou didſt not ſpare.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> I ſought for Chriſt whom my ſoul loves</l>
+               <l>Sweet reſt in him to find,</l>
+               <l>To feed with his beloved ones</l>
+               <l>And him alone to mind.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> Then by his Spirit he me taught,</l>
+               <l>And with his flock me led,</l>
+               <l>And with his Body and his Blood</l>
+               <l>My Soule hath ſweetly fed.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> The life of Saints in ſinful fleſh,</l>
+               <l>While they continue here;</l>
+               <l>Is ful of trouble, ſtrife, and care,</l>
+               <l>But Chriſt doth love them dear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> His Teſtaments moſt precious are</l>
+               <l>And ſealed with his blood.</l>
+               <l>His Graces he to Saints doth give,</l>
+               <l>Moſt pure are and good.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> The borders of his table ſpread,</l>
+               <l>are richer then the gold;</l>
+               <pb facs="tcp:170073:3"/>
+               <l> His Ordinances are more pure</l>
+               <l>Then ſilver to behold.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> Whilſt I with Chriſt at Table ſit,</l>
+               <l>His Body and Blood to take.</l>
+               <l>His Graces powred in my Soul</l>
+               <l>A ſweet perfume doth make.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> Chriſt my Beloved is to me,</l>
+               <l>ſweet, glorious, and bright;</l>
+               <l>He onely ſhall have place to lodge</l>
+               <l>in my heart day and night.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>14</label> He hath by cluſters of rich grapes</l>
+               <l>with his own blood me fed,</l>
+               <l>With his beloved choſen ones,</l>
+               <l>for whom his blood he ſhed.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>15</label> By this communion Lord with thee</l>
+               <l>thy righteouſneſs is mine</l>
+               <l>Thou doſt me love, &amp; give me grace</l>
+               <l>and I by Faith am thine.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>16</label> O my Beloved thou art fair,</l>
+               <l>and pleaſant unto me,</l>
+               <l>And all is ſweet that I injoy,</l>
+               <l>in fellowſhip with thee.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>17</label> As thou art ſweet ſo by thy grace</l>
+               <l>Our fellowſhip is ſo,</l>
+               <pb facs="tcp:170073:4"/>
+               <l> Oh let the breath of thy ſweet Spirit</l>
+               <l>for ever on us blow.</l>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <l>CHriſt Jeſus as with water ſweet</l>
+               <l>which from the Roſe is ſtil'd</l>
+               <l>hath now refreſht our drooping ſouls</l>
+               <l>with his blood which was ſpil'd,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> Satan doth rage, and ſeek our harm</l>
+               <l>while we continue here,</l>
+               <l>But bleſt be God, a Savior</l>
+               <l>we have that loves us dear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> Even as an apple tree among</l>
+               <l>trees growing in the wood</l>
+               <l>So is the body and blood of Chriſt</l>
+               <l>for ſouls the richeſt food.</l>
+               <l>We under his ſweet wings have ſate</l>
+               <l>with great delight of heart,</l>
+               <l>His body &amp; blood is ſweet which to</l>
+               <l>our ſouls he doth impart.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> Praiſe be to Chriſt that brought us to</l>
+               <l>this banquet and rich feaſt</l>
+               <l>His love doth overflow our ſouls</l>
+               <l>moſt precious is his taſte,</l>
+               <pb facs="tcp:170073:4"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> O ſtay our ſouls by Faith in thee,</l>
+               <l>ſweet Chriſt who art above,</l>
+               <l>And let thy Spirit comfort us</l>
+               <l>for we are ſick of love.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> Chriſt hath preſerv'd our lives, and brought</l>
+               <l>us hither to this place:</l>
+               <l>But glorious is the love wherewith</l>
+               <l>our ſouls he doth imbrace.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> His ſweet communion to our ſouls</l>
+               <l>doth give much joy and eaſe,</l>
+               <l>Oh, that we never more might part,</l>
+               <l>if Jeſus Chriſt did pleaſe.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> When we were full of griefe, the voyce</l>
+               <l>of Chriſt to us was ſweet</l>
+               <l>Mountains of ſorrows he did tread,</l>
+               <l>our ſouls (forlorn) to meet.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> Moſt willingly he died, and by</l>
+               <l>his Spirit he doth us cal,</l>
+               <l>And by his wounds and precious blood</l>
+               <l>for us doth conquer all.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> Chriſt our beloved ſweetly ſpake</l>
+               <l>and ſaid to us this day,</l>
+               <l>Riſe up and I wil beautifie</l>
+               <l>your ſouls, O come away.</l>
+               <pb facs="tcp:170073:5"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> Gods wrath is paſt your tears are botl'd</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> Sweet flowers of grace appear,</l>
+               <l>The time of Goſpel joy is come,</l>
+               <l>Gods glorious word to hear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> The bread &amp; wine doth for your ſouls</l>
+               <l>my body an blood diſplay,</l>
+               <l>Ariſe and I will beautifie</l>
+               <l>your ſouls, O come away.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>14,</label> When we with broken hearts do mourn</l>
+               <l>in ſecret, Chriſt doth cal;</l>
+               <l>Our tears he ſees, and hears the ſobs</l>
+               <l>and ſighings of us all.</l>
+               <l>Our voice is ſweet to him, and he</l>
+               <l>to be with us doth joy.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>15</label> And all the enemies of the Saints</l>
+               <l>he ſurely will deſtroy.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>16</label> O our Beloved, ours thou art,</l>
+               <l>and we, O Chriſt, are thine.</l>
+               <l>Thy body and blood, doth feed our ſouls</l>
+               <l>while we take bread &amp; wine.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>17</label> Until the day of joyful reſt,</l>
+               <l>with thee in heaven above:</l>
+               <pb facs="tcp:170073:5"/>
+               <l> Be thou with us, and keep us from</l>
+               <l>diviſions, in thy love.</l>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <l>UPon our beds wee ſought for Chriſt.</l>
+               <l>but could not find him there;</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> We riſe, and went to worldly things</l>
+               <l>and Chriſt did not appear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> The Word to hear then did we go</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> And found our Saviour then,</l>
+               <l>We held him in our heart, and would</l>
+               <l>not let him go agen.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> we now have in communion ſweet</l>
+               <l>receiv'd Chriſts body and blood,</l>
+               <l>Let Chriſt among us ſweetly reſt vine</l>
+               <l>while he doth ſee it good</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> What heavenly gales of Grace di<g ref="char:EOLhyphen"/>perfum'd from heaven above,</l>
+               <l>Hath Chriſt our Savior breath'd on us</l>
+               <l>at this rich feaſt of love.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> Where Angels do about us ſtand</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> And Chriſt his Spirit doth give</l>
+               <l>Give us O Lord thy Spirital waies,</l>
+               <pb facs="tcp:170073:6"/>
+               <l> that we in Chriſt may live.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> Chriſt hath himſelfe a Charriot made</l>
+               <l>of Ordinances fair</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> The bottom is of grace moſt free</l>
+               <l>of Faith the Pillars are.</l>
+               <l>And covered with his ſacred blood,</l>
+               <l>and fil'd with precious love,</l>
+               <l>For all the Saints to ſit and ſing</l>
+               <l>glory to God above.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> Go forth, exalt the Throne of Chriſt</l>
+               <l>to us he doth impart</l>
+               <l>His body and blood, his glory &amp; grace</l>
+               <l>in gladneſſe of his heart.</l>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <l>CHriſt Jeſus hath us beautifi'd,</l>
+               <l>with his rich Grace of Love,</l>
+               <l>Our mournful eyes he hath refreſht</l>
+               <l>with gladneſſe from above:</l>
+               <l>Much people hear the word with us</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> But we his flock do feed</l>
+               <l>By Faith on him our ſouls are waſht</l>
+               <l>in blood which he did bleed.</l>
+               <pb facs="tcp:170073:6"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> The love of Chriſt in ſtreams of blood</l>
+               <l>to us is ſweet and fair,</l>
+               <l>His innocent body to break for us,</l>
+               <l>and give, he did not ſpare.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> His power &amp; ſtrength doth us pre<g ref="char:EOLhyphen"/>ſerve,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> His word doth us refreſh</l>
+               <l>Praiſe be to him who at this Feaſt,</l>
+               <l>hath fed us with his fleſh</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> O bleſſed Chriſt whoſe fellow<g ref="char:EOLhyphen"/>ſhip</l>
+               <l>In this feaſt we have had,</l>
+               <l>Thy body and blood, by bread and wine</l>
+               <l>by faith hath made us glad</l>
+               <l>Oh that the glorious day was come</l>
+               <l>and all theſe ſhadowes gone</l>
+               <l>That we might mount to Heaven with thee.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> Our glory is Chriſt alone</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> Chriſt in his love hath brought us to</l>
+               <l>this feaſt of bread and wine;</l>
+               <l>As his beloved Spouſe with him,</l>
+               <l>upon the mount divine:</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> His Grace he pouers forth moſt free</l>
+               <l>his precious blood he ſhed</l>
+               <l>He draws our hearts to him, his heart</l>
+               <l>for us is raviſhed.</l>
+               <pb facs="tcp:170073:7"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> Chriſt by his blood doth purifie</l>
+               <l>the Saints whom he doth love.</l>
+               <l>And doth delight to ſanctifie</l>
+               <l>their ſouls from heaven above:</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> Their prayers he delights to hear</l>
+               <l>his graces they are ſweet</l>
+               <l>Whereby he draws their hearts to him</l>
+               <l>in faith and love to meet</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> His ſiſter, Spouſe Chriſt doth us cal</l>
+               <l>a Garden incloſed round,</l>
+               <l>A Spring ſhut up, a Fountain ſeal'd</l>
+               <l>in whom his Spirit is found.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> As Trees a comely Orchard make</l>
+               <l>wher they are planted wel,</l>
+               <l>So doth his Church bear prec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous fruit,</l>
+               <l>in Chriſt who doth excel,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>14</label> His graces are exceeding ſweet,</l>
+               <l>which to the Saints do flow</l>
+               <l>Whereby their hearts he watereth</l>
+               <l>that pleaſant fruit may grow.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> And of his Garden Chriſt himſelf</l>
+               <l>the fountain is, whoſe blood</l>
+               <l>A Wel of living water is</l>
+               <l>with ſtreams to do them good</l>
+               <pb facs="tcp:170073:7"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>16</label> As in thy Garden thou doſt feed</l>
+               <l>us here with bread and wine,</l>
+               <l>So let thy Spirit on us blow,</l>
+               <l>from heaven in grace divine.</l>
+               <l>As thou, O Chriſt, thy body &amp; blood</l>
+               <l>for us doeſt freely give,</l>
+               <l>So ſanctifie us with thy grace,</l>
+               <l>that we in thee may live:</l>
+               <l>And may in our communions all</l>
+               <l>have fellowſhip with thee,</l>
+               <l>And thou thy ſelf may joy in us</l>
+               <l>thy pleaſant fruits to ſee.</l>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <l>CHriſt is unto his Garden come</l>
+               <l>to meet us at this feaſt,</l>
+               <l>His precious grace to poure on us</l>
+               <l>and feed us with the beſt,</l>
+               <l>He poured out his blood for us,</l>
+               <l>and willingly did die</l>
+               <l>That we might feed thereon by faith</l>
+               <l>to live eternally,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> Our fleſh doth ſleep, our ſoul doth wake</l>
+               <l>the voyce of Chriſt we hear</l>
+               <pb facs="tcp:170073:8"/>
+               <l> Hee knocks and cals to have us come</l>
+               <l>to him that loves us dear,</l>
+               <l>And cals us Siſter, Love, and Dove,</l>
+               <l>his undefiled one,</l>
+               <l>Yet for our ſins, Gods wrath was poured</l>
+               <l>His innocent head upon</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> When Chriſt hath called many a time</l>
+               <l>to us to ope our heart,</l>
+               <l>Our lazineſſe and pride of ſpirit,</l>
+               <l>hath mov'd him to depart,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> But our beloved glanced in</l>
+               <l>with glorious beams divine</l>
+               <l>And by his ſacred power made way</l>
+               <l>into our heart to ſhine,</l>
+               <l>O then our ſoul did hunger ſore,</l>
+               <l>of his ſweet love to taſte</l>
+               <l>Our bowels moved were for him,</l>
+               <l>and then we roſe in haſte</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> We roſe up to our Saviour dear,</l>
+               <l>to him to open our heart;</l>
+               <l>His Graces by his ſpirit divine,</l>
+               <l>to us he did impart:</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> Yet from our ſenſe he did with<g ref="char:EOLhyphen"/>draw</l>
+               <l>which made our ſoules to faint,</l>
+               <pb facs="tcp:170073:8"/>
+               <l> We ſought him, but had no return</l>
+               <l>from him of our complaint,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7,</label> We by the mouths of Miniſters,</l>
+               <l>his ſacred word did hear</l>
+               <l>Which did ſo ſtrip and wound our</l>
+               <l>that we did quake for fear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> But ſuch refreſhments here we find</l>
+               <l>by Chriſt from Heaven above,</l>
+               <l>In this communion; that our ſouls</l>
+               <l>for him are ſick of love,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> What our Beloved is, we ſeek,</l>
+               <l>ſome people queſtion much,</l>
+               <l>Why we ſhould love him more then they</l>
+               <l>and why our zeal is ſuch?</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> Chriſt our Beloved is beautifull</l>
+               <l>his glory we can tell,</l>
+               <l>If ten thouſands compare with him</l>
+               <l>he doth them all excell.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> His Spirit doth ſweetly Graces breathe</l>
+               <l>upon his people all,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> His love is faithful to the Saints,</l>
+               <l>whom he by Faith doth call.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> The flowers of the Promiſes</l>
+               <l>in Chriſt are rich and fair.</l>
+               <pb facs="tcp:170073:9"/>
+               <l> and every word that from his mouth</l>
+               <l>diſtils is ſweet and rare</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>14</label> His handy works moſt precious are</l>
+               <l>his bowels yern with love</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>15</label> His ſtrength is very excellent,</l>
+               <l>and great from heaven above.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>16</label> A pleaſant reliſh we do find,</l>
+               <l>of his ſweet body and blood</l>
+               <l>Yea, he is wholly lovely and</l>
+               <l>doth alwaies doe us good,</l>
+               <l>This our beloved is, and is</l>
+               <l>to us a faithful friend,</l>
+               <l>To whom be honor, glory, laud,</l>
+               <l>and praiſe world without end.</l>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <l>WE have this day been ſeek<g ref="char:EOLhyphen"/>ing out</l>
+               <l>Chriſt our Beloved dear,</l>
+               <l>That we with pure and ſingle hearts</l>
+               <l>might worſhip him in fear</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> And in his Church we have injoy'd</l>
+               <l>his Ordinances good,</l>
+               <pb facs="tcp:170073:9"/>
+               <l> And he by grace hath fed us with</l>
+               <l>his body and his blood.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> O our Beloved Saviour dear</l>
+               <l>behold we are thine own,</l>
+               <l>Thou doſt among the Lillies feed,</l>
+               <l>beſide thee we have none.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> In thy love we are beautiful</l>
+               <l>through grace which thou doſt give</l>
+               <l>To make us comely, and thy ſtrength</l>
+               <l>alone doth make us live</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> When wee in tears doe groan for Chriſt</l>
+               <l>by faith our prayers prevail</l>
+               <l>For in Aſſemblys of the Saints</l>
+               <l>to be, he doth not faile.</l>
+               <l>Where all profeſſors joyn with us</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> But he his flock doth feed</l>
+               <l>(By faith) on him O waſh our ſouls</l>
+               <l>in blood which thou didſt bleed.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> The love of Chriſt in ſtreams of blood</l>
+               <l>to us is ſweet and fair,</l>
+               <l>His ſpotleſſe body to break for us</l>
+               <l>and give he did not ſpare.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> Though in opinions difference be</l>
+               <l>in outward things below.</l>
+               <pb facs="tcp:170073:10"/>
+               <l> In Churches Congregations,</l>
+               <l>and precious Saints alſo.</l>
+               <l>The ſanctified Spouſe of Chriſt,</l>
+               <l>in light divine is one</l>
+               <l>With God in Chriſt, &amp; all the Saints</l>
+               <l>have ſweet communion.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> By Faith in him they are more bright</l>
+               <l>then day, or Moon, or Sun</l>
+               <l>And by his power they are ſo ſtrong down</l>
+               <l>none can them overcome.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> Into his Garden Chriſt came</l>
+               <l>where his ſweet Spirit did blow,</l>
+               <l>And view'd the Graces of the Saints</l>
+               <l>which from his Spirit did flow,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> His love conſtraineth all the hearts</l>
+               <l>he doth by grace prepare,</l>
+               <l>His arme he doth reveale and then,</l>
+               <l>his people willing are.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> O come let us return to walke</l>
+               <l>more cloſe and we ſhall ſee,</l>
+               <l>The glorious power of the Lord,</l>
+               <l>our joy and ſtrength to be.</l>
+            </div>
+            <div n="7" type="chapter">
+               <pb facs="tcp:170073:10"/>
+               <head>CHAP. VII.</head>
+               <l>ALl thoſe that are regenerate</l>
+               <l>are beautiful, their feet</l>
+               <l>In holy pathes do walk with Chriſt</l>
+               <l>they have communion ſweet.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> Their bowels erne in charity,</l>
+               <l>to Saints where they do live,</l>
+               <l>Unto the poor that are in want</l>
+               <l>they liberally do give.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> The Ordinances of the Lord,</l>
+               <l>unto the Saints are ſweet,</l>
+               <l>Lord ſanctifie our union,</l>
+               <l>that Chriſt may with us meet.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> The power of Chriſt doth us pre<g ref="char:EOLhyphen"/>ſerve</l>
+               <l>in him alone we live,</l>
+               <l>Our tears he turns to joy, his ſpirit</l>
+               <l>a ſweet perfume doth give.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> His blood he freely ſpilt for us,</l>
+               <l>and cloathed us alſo.</l>
+               <l>With his pure robes of righteouſnes</l>
+               <l>his mercies to us flow.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> He by his blood doth purifie,</l>
+               <l>the Saints whom he doth love,</l>
+               <pb facs="tcp:170073:11"/>
+               <l> And doth with pleaſant joy delight</l>
+               <l>their ſouls from Heaven above.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> The humble ſpirits of the Saints,</l>
+               <l>before the Lord in love,</l>
+               <l>By grace from Heaven on them be<g ref="char:EOLhyphen"/>ſtow'd</l>
+               <l>aſcend to God above,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> By faith our ſouls doe mount on high</l>
+               <l>while bread &amp; wine we take</l>
+               <l>And in this feaſt, the grace of Chriſt</l>
+               <l>a ſweet perfume doth make</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> His precious body and blood re<g ref="char:EOLhyphen"/>ceiv'd,</l>
+               <l>unto the taſte is ſweet,</l>
+               <l>And all our ſouls refreſhment have,</l>
+               <l>when we with him do meet,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> O our Beloved Saviour dear,</l>
+               <l>behold us we are thine,</l>
+               <l>And thy deſires after us</l>
+               <l>moſt ſweetly doe incline.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> O our beloved Jeſus come,</l>
+               <l>and do thou with us live,</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> That all our joy may be in thee</l>
+               <l>to whom our hearts we give.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> Then we abundant peace ſhall have,</l>
+               <l>in all that we poſſeſſe</l>
+               <pb facs="tcp:170073:11"/>
+               <l> All our rich treaſures are in thee,</l>
+               <l>thou art our righteouſneſſe.</l>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <l>AS we in this our fellowſhip,</l>
+               <l>communion have together,</l>
+               <l>So let our union truely be</l>
+               <l>with thee, O Chriſt, for ever.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>2</label> In all the duties we performe,</l>
+               <l>thy Spirit to us give,</l>
+               <l>Teach thou our ſoules, and give us ſtrength</l>
+               <l>that we in thee may live.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>3</label> Do thou preſerve our ſouls and be</l>
+               <l>with us in every place.</l>
+               <l>For glorious is thy love wherewith Saints</l>
+               <l>our ſouls thou doſt imbrace.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>4</label> Thy ſweet communion with the</l>
+               <l>doth give much joy and eaſe.</l>
+               <l>Oh, that we never more might part</l>
+               <l>if Jeſus Chriſt did pleaſe.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>5</label> What heavenly gales of grace di<g ref="char:EOLhyphen"/>vine</l>
+               <l>perfum'd from heaven above</l>
+               <l>Hath Chriſt our Savior breath'd on us</l>
+               <l>at this rich feaſt of love,</l>
+               <pb facs="tcp:170073:12"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>6</label> Lord to thy boſome take us up,</l>
+               <l>to be with thee above,</l>
+               <l>For after thee in us doth burn.</l>
+               <l>a vehement flame of love.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>7</label> The floods of tears, and ſtreams of blood</l>
+               <l>which Chriſt for us hath ſhed,</l>
+               <l>Abundantly ſet forth thy love,</l>
+               <l>of which we now have fed.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>8</label> Lord many of thy Saints there are</l>
+               <l>that wait thy mind to know,</l>
+               <l>O teach both us and them the way</l>
+               <l>where thou wouldſt have us go.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>9</label> Oh, that all were united here,</l>
+               <l>who union have with thee,</l>
+               <l>Let all our troubles have an end,</l>
+               <l>and all thy Saints agree.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> We bleſs thee for our fellowſhip</l>
+               <l>in this rich feaſt of love,</l>
+               <l>Refreſh our ſoules with thy ſweet ſpirit,</l>
+               <l>for ever from above.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> Chriſts Churches are his vine<g ref="char:EOLhyphen"/>yards</l>
+               <l>where he doth keepers place</l>
+               <l>To dreſſe his plants, and make their fruit</l>
+               <l>to bud &amp; ſpring apace.</l>
+               <pb facs="tcp:170073:12"/>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>12</label> They in his vineyards doe the work</l>
+               <l>which he to them doth give,</l>
+               <l>That his name may be magnifi'd</l>
+               <l>and we in him may live.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>13</label> All thoſe that in thy Church, O Chriſt</l>
+               <l>do worſhip thee in fear,</l>
+               <l>Communion have with thee, and joy</l>
+               <l>thy pleaſant voyce to hear.</l>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>14</label> Make haſte, O Chriſt, with ſpeed to us,</l>
+               <l>we do thee dearly love,</l>
+               <l>O let thy ſpirit to our hearts</l>
+               <l>come down from heaven above.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
